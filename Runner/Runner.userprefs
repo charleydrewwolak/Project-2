@@ -1,15 +1,16 @@
-﻿<Properties StartupItem="Runner.Plugins.csproj">
+﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\AykieTheSquirrel\Squirrel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ScrollScript.cs">
     <Files>
       <File FileName="Assets\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" Line="58" Column="67" />
       <File FileName="Assets\Scripts\CameraRunnerScript.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\PowerupScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\HUDScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\DestroyerScript.cs" Line="10" Column="15" />
-      <File FileName="Assets\Scripts\GameOverScript.cs" Line="18" Column="52" />
+      <File FileName="Assets\Scripts\HUDScript.cs" Line="17" Column="2" />
+      <File FileName="Assets\Scripts\DestroyerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameOverScript.cs" Line="1" Column="1" />
       <File FileName="Assets\AykieTheSquirrel\Squirrel.cs" Line="110" Column="20" />
-      <File FileName="Assets\Standard Assets\2D\Scripts\Platformer2DUserControl.cs" Line="20" Column="15" />
+      <File FileName="Assets\Standard Assets\2D\Scripts\Platformer2DUserControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScrollScript.cs" Line="22" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

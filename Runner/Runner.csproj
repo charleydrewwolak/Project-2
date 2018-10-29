@@ -91,9 +91,12 @@
     <Compile Include="Assets\Scripts\GameOverScript.cs" />
     <Compile Include="Assets\Scripts\HUDScript.cs" />
     <Compile Include="Assets\Scripts\PowerupScript.cs" />
+    <Compile Include="Assets\Scripts\ScrollScript.cs" />
     <Compile Include="Assets\Scripts\SpawnScript.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Free Pixel Art plataformer painted style\Contact.txt" />
+    <None Include="Assets\Free Pixel Art plataformer painted style\readme.txt" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />

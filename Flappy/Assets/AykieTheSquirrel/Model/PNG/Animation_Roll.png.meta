@@ -1,0 +1,816 @@
+fileFormatVersion: 2
+guid: 41ee929dc69414032ab11efb29981f21
+timeCreated: 1501806929
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Animation_Roll_0
+    21300002: Animation_Roll_1
+    21300004: Animation_Roll_2
+    21300006: Animation_Roll_3
+    21300008: Animation_Roll_4
+    21300010: Animation_Roll_5
+    21300012: Animation_Roll_6
+    21300014: Animation_Roll_7
+    21300016: Animation_Roll_8
+    21300018: Animation_Roll_9
+    21300020: Animation_Roll_10
+    21300022: Animation_Roll_11
+    21300024: Animation_Roll_12
+    21300026: Animation_Roll_13
+    21300028: Animation_Roll_14
+    21300030: Animation_Roll_15
+    21300032: Animation_Roll_16
+    21300034: Animation_Roll_17
+    21300036: Animation_Roll_18
+    21300038: Animation_Roll_19
+    21300040: Animation_Roll_20
+    21300042: Animation_Roll_21
+    21300044: Animation_Roll_22
+    21300046: Animation_Roll_23
+    21300048: Animation_Roll_24
+    21300050: Animation_Roll_25
+    21300052: Animation_Roll_26
+    21300054: Animation_Roll_27
+    21300056: Animation_Roll_28
+    21300058: Animation_Roll_29
+    21300060: Animation_Roll_30
+    21300062: Animation_Roll_31
+    21300064: Animation_Roll_32
+    21300066: Animation_Roll_33
+    21300068: Animation_Roll_34
+    21300070: Animation_Roll_35
+    21300072: Animation_Roll_36
+    21300074: Animation_Roll_37
+    21300076: Animation_Roll_38
+    21300078: Animation_Roll_39
+    21300080: Animation_Roll_40
+    21300082: Animation_Roll_41
+    21300084: Animation_Roll_42
+    21300086: Animation_Roll_43
+    21300088: Animation_Roll_44
+    21300090: Animation_Roll_45
+    21300092: Animation_Roll_46
+    21300094: Animation_Roll_47
+    21300096: Animation_Roll_48
+    21300098: Animation_Roll_49
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_Roll_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3609
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_1
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 3609
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_2
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3609
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_3
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 3609
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_4
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 3609
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3208
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_6
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 3208
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_7
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3208
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_8
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 3208
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_9
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 3208
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2807
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_11
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2807
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_12
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2807
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_13
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 2807
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_14
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2807
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2406
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_16
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2406
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_17
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2406
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_18
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 2406
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_19
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2406
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2005
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_21
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2005
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_22
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2005
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_23
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 2005
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_24
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2005
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1604
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_26
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1604
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_27
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1604
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_28
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1604
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_29
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1604
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1203
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_31
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1203
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_32
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1203
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_33
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1203
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_34
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1203
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 802
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_36
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 802
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_37
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 802
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_38
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 802
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_39
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 802
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_41
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 401
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_42
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 401
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_43
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 401
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_44
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 401
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_46
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 0
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_47
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 0
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_48
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 0
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Roll_49
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 0
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

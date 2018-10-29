@@ -1,0 +1,816 @@
+fileFormatVersion: 2
+guid: d051f35e858cb42c78b3248cc8e4751e
+timeCreated: 1501806914
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Animation_Idle_0
+    21300002: Animation_Idle_1
+    21300004: Animation_Idle_2
+    21300006: Animation_Idle_3
+    21300008: Animation_Idle_4
+    21300010: Animation_Idle_5
+    21300012: Animation_Idle_6
+    21300014: Animation_Idle_7
+    21300016: Animation_Idle_8
+    21300018: Animation_Idle_9
+    21300020: Animation_Idle_10
+    21300022: Animation_Idle_11
+    21300024: Animation_Idle_12
+    21300026: Animation_Idle_13
+    21300028: Animation_Idle_14
+    21300030: Animation_Idle_15
+    21300032: Animation_Idle_16
+    21300034: Animation_Idle_17
+    21300036: Animation_Idle_18
+    21300038: Animation_Idle_19
+    21300040: Animation_Idle_20
+    21300042: Animation_Idle_21
+    21300044: Animation_Idle_22
+    21300046: Animation_Idle_23
+    21300048: Animation_Idle_24
+    21300050: Animation_Idle_25
+    21300052: Animation_Idle_26
+    21300054: Animation_Idle_27
+    21300056: Animation_Idle_28
+    21300058: Animation_Idle_29
+    21300060: Animation_Idle_30
+    21300062: Animation_Idle_31
+    21300064: Animation_Idle_32
+    21300066: Animation_Idle_33
+    21300068: Animation_Idle_34
+    21300070: Animation_Idle_35
+    21300072: Animation_Idle_36
+    21300074: Animation_Idle_37
+    21300076: Animation_Idle_38
+    21300078: Animation_Idle_39
+    21300080: Animation_Idle_40
+    21300082: Animation_Idle_41
+    21300084: Animation_Idle_42
+    21300086: Animation_Idle_43
+    21300088: Animation_Idle_44
+    21300090: Animation_Idle_45
+    21300092: Animation_Idle_46
+    21300094: Animation_Idle_47
+    21300096: Animation_Idle_48
+    21300098: Animation_Idle_49
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3609
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 3609
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3609
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 3609
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 3609
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3208
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 3208
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3208
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 3208
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 3208
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2807
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2807
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2807
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 2807
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2807
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2406
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2406
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2406
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 2406
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2406
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2005
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2005
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2005
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 2005
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2005
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1604
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1604
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1604
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1604
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1604
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1203
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1203
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1203
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1203
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1203
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 802
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 802
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 802
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 802
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 802
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 401
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 401
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 401
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 401
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 0
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 0
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 0
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 0
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

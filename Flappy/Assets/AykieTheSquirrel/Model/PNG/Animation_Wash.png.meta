@@ -1,0 +1,1516 @@
+fileFormatVersion: 2
+guid: 8da160fd042ec4cf49304aec4f12bb53
+timeCreated: 1501806954
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Animation_Wash_0
+    21300002: Animation_Wash_1
+    21300004: Animation_Wash_2
+    21300006: Animation_Wash_3
+    21300008: Animation_Wash_4
+    21300010: Animation_Wash_5
+    21300012: Animation_Wash_6
+    21300014: Animation_Wash_7
+    21300016: Animation_Wash_8
+    21300018: Animation_Wash_9
+    21300020: Animation_Wash_10
+    21300022: Animation_Wash_11
+    21300024: Animation_Wash_12
+    21300026: Animation_Wash_13
+    21300028: Animation_Wash_14
+    21300030: Animation_Wash_15
+    21300032: Animation_Wash_16
+    21300034: Animation_Wash_17
+    21300036: Animation_Wash_18
+    21300038: Animation_Wash_19
+    21300040: Animation_Wash_20
+    21300042: Animation_Wash_21
+    21300044: Animation_Wash_22
+    21300046: Animation_Wash_23
+    21300048: Animation_Wash_24
+    21300050: Animation_Wash_25
+    21300052: Animation_Wash_26
+    21300054: Animation_Wash_27
+    21300056: Animation_Wash_28
+    21300058: Animation_Wash_29
+    21300060: Animation_Wash_30
+    21300062: Animation_Wash_31
+    21300064: Animation_Wash_32
+    21300066: Animation_Wash_33
+    21300068: Animation_Wash_34
+    21300070: Animation_Wash_35
+    21300072: Animation_Wash_36
+    21300074: Animation_Wash_37
+    21300076: Animation_Wash_38
+    21300078: Animation_Wash_39
+    21300080: Animation_Wash_40
+    21300082: Animation_Wash_41
+    21300084: Animation_Wash_42
+    21300086: Animation_Wash_43
+    21300088: Animation_Wash_44
+    21300090: Animation_Wash_45
+    21300092: Animation_Wash_46
+    21300094: Animation_Wash_47
+    21300096: Animation_Wash_48
+    21300098: Animation_Wash_49
+    21300100: Animation_Wash_50
+    21300102: Animation_Wash_51
+    21300104: Animation_Wash_52
+    21300106: Animation_Wash_53
+    21300108: Animation_Wash_54
+    21300110: Animation_Wash_55
+    21300112: Animation_Wash_56
+    21300114: Animation_Wash_57
+    21300116: Animation_Wash_58
+    21300118: Animation_Wash_59
+    21300120: Animation_Wash_60
+    21300122: Animation_Wash_61
+    21300124: Animation_Wash_62
+    21300126: Animation_Wash_63
+    21300128: Animation_Wash_64
+    21300130: Animation_Wash_65
+    21300132: Animation_Wash_66
+    21300134: Animation_Wash_67
+    21300136: Animation_Wash_68
+    21300138: Animation_Wash_69
+    21300140: Animation_Wash_70
+    21300142: Animation_Wash_71
+    21300144: Animation_Wash_72
+    21300146: Animation_Wash_73
+    21300148: Animation_Wash_74
+    21300150: Animation_Wash_75
+    21300152: Animation_Wash_76
+    21300154: Animation_Wash_77
+    21300156: Animation_Wash_78
+    21300158: Animation_Wash_79
+    21300160: Animation_Wash_80
+    21300162: Animation_Wash_81
+    21300164: Animation_Wash_82
+    21300166: Animation_Wash_83
+    21300168: Animation_Wash_84
+    21300170: Animation_Wash_85
+    21300172: Animation_Wash_86
+    21300174: Animation_Wash_87
+    21300176: Animation_Wash_88
+    21300178: Animation_Wash_89
+    21300180: Animation_Wash_90
+    21300182: Animation_Wash_91
+    21300184: Animation_Wash_92
+    21300186: Animation_Wash_93
+    21300188: Animation_Wash_94
+    21300190: Animation_Wash_95
+    21300192: Animation_Wash_96
+    21300194: Animation_Wash_97
+    21300196: Animation_Wash_98
+    21300198: Animation_Wash_99
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_Wash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7619
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_1
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 7619
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_2
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 7619
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_3
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 7619
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_4
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 7619
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7218
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_6
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 7218
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_7
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 7218
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_8
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 7218
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_9
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 7218
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6817
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_11
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 6817
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_12
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 6817
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_13
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 6817
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_14
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 6817
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6416
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_16
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 6416
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_17
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 6416
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_18
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 6416
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_19
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 6416
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6015
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_21
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 6015
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_22
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 6015
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_23
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 6015
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_24
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 6015
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5614
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_26
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 5614
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_27
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 5614
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_28
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 5614
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_29
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 5614
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5213
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_31
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 5213
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_32
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 5213
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_33
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 5213
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_34
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 5213
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4812
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_36
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 4812
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_37
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 4812
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_38
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 4812
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_39
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 4812
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4411
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_41
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 4411
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_42
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 4411
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_43
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 4411
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_44
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 4411
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4010
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_46
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 4010
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_47
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 4010
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_48
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 4010
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_49
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 4010
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3609
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_51
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 3609
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_52
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3609
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_53
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 3609
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_54
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 3609
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3208
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_56
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 3208
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_57
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3208
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_58
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 3208
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_59
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 3208
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2807
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_61
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2807
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_62
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2807
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_63
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 2807
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_64
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2807
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2406
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_66
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2406
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_67
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2406
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_68
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 2406
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_69
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2406
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2005
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_71
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2005
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_72
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2005
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_73
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 2005
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_74
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2005
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1604
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_76
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1604
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_77
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1604
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_78
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1604
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_79
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1604
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1203
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_81
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1203
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_82
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1203
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_83
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1203
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_84
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1203
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 802
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_86
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 802
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_87
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 802
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_88
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 802
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_89
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 802
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_91
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 401
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_92
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 401
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_93
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 401
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_94
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 401
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_96
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 0
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_97
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 0
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_98
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 0
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Animation_Wash_99
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 0
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

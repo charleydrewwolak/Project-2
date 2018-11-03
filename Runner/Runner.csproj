@@ -86,6 +86,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\AykieTheSquirrel\Squirrel.cs" />
+    <Compile Include="Assets\EnemyScript.cs" />
     <Compile Include="Assets\Scripts\CameraRunnerScript.cs" />
     <Compile Include="Assets\Scripts\DestroyerScript.cs" />
     <Compile Include="Assets\Scripts\GameOverScript.cs" />
@@ -95,6 +96,8 @@
     <Compile Include="Assets\Scripts\SpawnScript.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Dog\jump\visit_bevouliin_dot_com.txt" />
+    <None Include="Assets\Dog\run\visit_bevouliin_dot_com.txt" />
     <None Include="Assets\Free Pixel Art plataformer painted style\Contact.txt" />
     <None Include="Assets\Free Pixel Art plataformer painted style\readme.txt" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />

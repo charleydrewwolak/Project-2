@@ -27,14 +27,17 @@ public class Bird : MonoBehaviour
             {
                 jump();
             }
+            else if (!Input.GetKey(KeyCode.Space) && rb2d.velocity.y < 0)
+            {
+                print("idle");
+                anim.SetTrigger("idle");
+                
+            }
             if (Input.GetKey(KeyCode.Space) && rb2d.velocity.y < 0)
             {
                 rb2d.velocity = Vector2.zero;
-                //rb2d.velocity.y = -.5;
-                rb2d.gravityScale = .9f;
-            } else { 
-                rb2d.gravityScale = 1;
-            }
+                anim.SetTrigger("Glide");
+            } 
         }
     }
 

@@ -20,24 +20,28 @@ public class Bird : MonoBehaviour
 
     void Update()
     {
-        if (isDead == false) 
+        if (anim.GetBool("glide")==false) 
         {
             //Look for input to trigger a "flap".
             if (Input.GetKeyDown(KeyCode.Space)) 
             {
                 jump();
+                anim.SetBool("glide", true);
             }
-            else if (!Input.GetKey(KeyCode.Space) && rb2d.velocity.y < 0)
+        }
+        else
+        {
+            if (Input.GetKey(KeyCode.Space))
             {
-                print("idle");
-                anim.SetTrigger("idle");
-                
-            }
-            if (Input.GetKey(KeyCode.Space) && rb2d.velocity.y < 0)
-            {
-                rb2d.velocity = Vector2.zero;
-                anim.SetTrigger("Glide");
+                if (rb2d.velocity.y < 0)
+                {
+                    rb2d.velocity = Vector2.zero;
+                }
             } 
+            else 
+            {
+                anim.SetBool("glide", false);
+            }
         }
     }
 

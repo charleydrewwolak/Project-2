@@ -86,7 +86,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\AykieTheSquirrel\Squirrel.cs" />
-    <Compile Include="Assets\EnemyScript.cs" />
     <Compile Include="Assets\Scripts\CameraRunnerScript.cs" />
     <Compile Include="Assets\Scripts\DestroyerScript.cs" />
     <Compile Include="Assets\Scripts\GameOverScript.cs" />

@@ -9,9 +9,9 @@ public class Acorn : MonoBehaviour
         {
             //If the bird hits the trigger collider in between the columns then
             //tell the game control that the bird scored.
-            Destroy(this.gameObject);
+            //Destroy(this.gameObject);
             GameControl.instance.BirdScored();
-            //this.GetComponent<Renderer>().enabled = false;
+            this.GetComponent<Renderer>().enabled = false;
             
             
         }

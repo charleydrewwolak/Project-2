@@ -1,12 +1,12 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class AcornPool : MonoBehaviour 
+public class Spawner : MonoBehaviour 
 {
-    public GameObject acorn;                                 //The acorn game object.
-    public float spawnRate = 3f;                                    //How quickly acorns spawn.
-    public float acornMin = -1f;                                   //Minimum y value of the acorn position.
-    public float acornMax = 3.5f;                                  //Maximum y value of the acorn position.
+    public GameObject input;                                 //The acorn game object.
+    public float spawnRate;                                    //How quickly acorns spawn.
+    public float yMin;                                   //Minimum y value of the acorn position.
+    public float yMax;                                  //Maximum y value of the acorn position.
     private float spawnXPosition = 25f;
     private float timeSinceLastSpawned;
     
@@ -27,10 +27,10 @@ public class AcornPool : MonoBehaviour
             timeSinceLastSpawned = 0f;
 
             //Set a random y position for the acorn
-            float spawnYPosition = Random.Range(acornMin, acornMax);
+            float spawnYPosition = Random.Range(yMin, yMax);
 
             //...then set the current acorn to that position.
-            Instantiate(acorn, new Vector2(spawnXPosition, spawnYPosition), Quaternion.identity);
+            Instantiate(input, new Vector2(spawnXPosition, spawnYPosition), Quaternion.identity);
 
         }
     }

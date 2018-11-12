@@ -3,6 +3,7 @@ using System.Collections;
 
 public class Bird : MonoBehaviour 
 {
+    public float gravity;
     public float upForce;                   //Upward force of the "flap".
     private bool isDead = false;            //Has the player collided with a wall?
 
@@ -15,6 +16,7 @@ public class Bird : MonoBehaviour
         anim = GetComponent<Animator> ();
         //Get and store a reference to the Rigidbody2D attached to this GameObject.
         rb2d = GetComponent<Rigidbody2D>();
+        rb2d.gravityScale = gravity;
 
     }
 

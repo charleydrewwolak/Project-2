@@ -7,6 +7,8 @@ public class DestroyerScript : MonoBehaviour {
 
 	void OnTriggerEnter2D(Collider2D other)
 	{
-			Destroy(other.gameObject);
+			if (other.gameObject){
+				Destroy(other.gameObject);
+			}
 	}
 }

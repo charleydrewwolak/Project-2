@@ -7,8 +7,13 @@ public class Spawner : MonoBehaviour
     public float spawnRate;                                    //How quickly acorns spawn.
     public float yMin;                                   //Minimum y value of the acorn position.
     public float yMax;                                  //Maximum y value of the acorn position.
+
+    public float spacing;
+    private bool start = false;
     private float spawnXPosition = 25f;
+
     private float timeSinceLastSpawned;
+    
     
 
     void Start()
@@ -21,8 +26,10 @@ public class Spawner : MonoBehaviour
     void Update()
     {
         timeSinceLastSpawned += Time.deltaTime;
-
-        if (GameControl.instance.gameOver == false && timeSinceLastSpawned >= spawnRate) 
+        if (start == false && timeSinceLastSpawned >= (spawnRate+spacing)) {
+            start = true;
+        } 
+        if (GameControl.instance.gameOver == false && timeSinceLastSpawned >= spawnRate && start == true) 
         {   
             timeSinceLastSpawned = 0f;
 
